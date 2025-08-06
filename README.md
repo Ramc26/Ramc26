@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Ramc26">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=00A3FF&center=true&vCenter=true&width=600&height=100&lines=Ram+Bikkina;Python+Backend+Dev" alt="Ram Bikkina | Python Backend Dev" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1000&color=C04657&center=true&vCenter=true&width=600&height=100&lines=Ram+Bikkina;Python+Backend+Dev" alt="Ram Bikkina | Python Backend Dev" />
   </a>
 </div>
 
@@ -17,12 +17,12 @@
     👋 About Me
 </h3>
 
-- 🤖 **AI Innovation Engineer** | Building cutting-edge Python & agentic solutions
-- ☁️ **AWS Cloud Expert** | Developer Associate Certified with advanced cloud architectures
-- 🚀 **Agentic Workflows Pioneer** | Specializing in RAG systems and autonomous AI agents
-- 🐍 **Advanced Python Developer** | ML/AI applications with production-scale deployments
-- 🌟 **Open Source Advocate** | Contributing to scalable, community-driven projects
-- 💡 **Continuous Innovator** | Always exploring the latest in AI, cloud, and distributed systems
+- 🌟 **Freelancer (Side Quest)** | Built automation, web scraping, and ML/AI apps for US & Indian clients
+- ☁️ **Cloud Engineer** | Building scalable AWS cloud architectures and CI/CD pipelines
+- 🤖 **AI/ML Integrations** | Deploying LLM agents, ML models, and intelligent cloud pipelines
+- 🦾 **Agentic AI Development** | Specializing in autonomous workflows and RAG systems
+- 🐍 **Python Backend Developer** | Robust APIs, production ML pipelines, microservices (Flask, Django, GoLang)
+- 🚀 **Continuous Innovator** | Always exploring advanced AI and cloud/distributed systems
 
 <br/>
 
